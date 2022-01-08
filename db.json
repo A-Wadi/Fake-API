@@ -31,8 +31,9 @@
         },
         {
             "id": "6",
-            "Title": "The LEGO Batman Movie",
-            "Year": "2017",
+            "TitleEn": "The LEGO Batman Movie",
+            "TitleAr": "فيلم ليغو باتمان",
+            "Year": 2017,
             "Poster": "https://ia.media-imdb.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
             "BigPoster" : "https://www.avforums.com/styles/avf/editorial/block//cd5b31a8332204f8250c197f867409a0_3x3.jpg"
         },
